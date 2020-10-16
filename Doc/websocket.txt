@@ -1,0 +1,7 @@
+
+- websocket c++
+	- poco library
+		- https://github.com/pocoproject/poco
+	- websocket client sample
+		- https://gist.github.com/tuxmartin/1218851b7e025f68ecc50f949c9dd332
+
