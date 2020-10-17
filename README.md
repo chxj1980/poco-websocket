@@ -1,3 +1,3 @@
 # poco-websocket
-poco library websocket sample with VS2017 C++
+poco library websocket client sample with VS2017 C++
 
